@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "continuum": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "getcontinuum@0.1.2",
+        "mcp"
+      ]
+    }
+  }
+}
