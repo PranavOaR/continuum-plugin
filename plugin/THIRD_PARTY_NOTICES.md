@@ -487,7 +487,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## lucide-react 1.57.0
+## lucide-react 1.70.0
 
 License: ISC
 
